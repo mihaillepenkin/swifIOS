@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Бег", "met": 9.8, "icon": "figure.run" },
+  { "id": 2, "name": "Велосипед", "met": 7.5, "icon": "figure.outdoor.cycle" },
+  { "id": 3, "name": "Силовая", "met": 6.0, "icon": "dumbbell.fill" }
+]
